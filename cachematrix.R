@@ -1,4 +1,9 @@
-## This function is use to create a special matrix that can cache its inverted matrix.
+## This function is use to create a special matrix that is a list containing function to :
+## 1. set the value of the matrix
+## 2. get the value of the matrix
+## 3. set the value of the inverse matrix
+## 4. get the value of the inverse matrix
+
 
 makeCacheMatrix <- function(x = matrix()) {
   ## 'x' is a matrix that's assumed to be always invertible.

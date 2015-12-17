@@ -1,4 +1,4 @@
-## Resubmission of Coursera Module 2 : R Programming Assignment 2:
+## Resubmission for Coursera Module 2 - R Programming Assignment 2:
 ## This function is use to create a special matrix that is a list containing function to :
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
